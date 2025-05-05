@@ -9,3 +9,12 @@ Hoy te presento el desafío Alura Store, análisis de ventas y rendimiento de la
 Te han contratado para realizar este análisis. Tu jefe nos ha pedido que hagas la evaluación basándose en estos cinco aspectos: facturación total de cada tienda, es decir, cuál tienda vende más; cuáles son las categorías más populares de cada tienda, es decir, cuáles productos se venden más en cada tienda; cuál es el promedio de evaluación de cada uno de los clientes; cuáles son los productos más y menos vendidos en cada tienda; y cuál es el costo promedio del envío desde la tienda hasta el lugar de cada uno de los clientes.
 Con estos datos, ayudara al señor Juan a tomar una decisión fundamental y estratégica.
 
+# Analisis relevante del documento.
+
+## Facturación por tienda.
+
+## Ventas por tienda.
+
+## Gastos de envio por tienda.
+
+##
