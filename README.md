@@ -31,8 +31,7 @@ Puedes consultar el informe completo en el siguiente enlace:
 ## 🛠️ Tecnologías utilizadas
 
 - 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- 📓 Jupyter Notebook  
-- ☁️ Google Colab (opcional)  
+- ☁️ Google Colab   
 - 🗃️ Git / GitHub  
 
 ---
