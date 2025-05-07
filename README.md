@@ -10,6 +10,6 @@ Te han contratado para realizar este análisis. Tu jefe nos ha pedido que hagas 
 Con estos datos, ayudara al señor Juan a tomar una decisión fundamental y estratégica.
 
 # Analisis 
-  Descargar el archivo Trabajo_Alura_ONE.pdf
-[text](https://github.com/educhile1/challenge_datascience1-ONE/blob/main/Trabajo_Alura_ONE.pdf)
+  
+[DESCARGAR EL INFORME DE RESPUESTA](https://github.com/educhile1/challenge_datascience1-ONE/blob/main/Trabajo_Alura_ONE.pdf)
 ##
