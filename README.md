@@ -11,4 +11,5 @@ Con estos datos, ayudara al señor Juan a tomar una decisión fundamental y estr
 
 # Analisis 
   Descargar el archivo Trabajo_Alura_ONE.pdf
+[text](https://github.com/educhile1/challenge_datascience1-ONE/blob/main/Trabajo_Alura_ONE.pdf)
 ##
